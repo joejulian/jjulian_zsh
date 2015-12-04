@@ -1,3 +1,7 @@
 [user]
 	email = me@joejulian.name
 	name = Joe Julian
+[push]
+	default = simple
+[core]
+	editor = vim
