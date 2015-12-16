@@ -1,4 +1,19 @@
-dev/
+# standard ignores
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.cache/
+.ccache/
+.gem/
+.history
+.lesshst
+.ssh/
+.vagrant.d/
+.vim/.netrwhist
+.viminfo
+.zcompdump
+.zcompdump.zwc
 Desktop/
 Documents/
 Downloads/
@@ -7,14 +22,6 @@ Pictures/
 Public/
 Templates/
 Videos/
-.bash_history
-.bash_logout
-.bash_profile
-.bashrc
-.ccache/
-.history
-.lesshst
-.ssh/
-.viminfo
-.zcompdump
-.zcompdump.zwc
+
+# specific to my personal workflow
+dev/
