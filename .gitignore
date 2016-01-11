@@ -1,4 +1,5 @@
 # standard ignores
+.ICEauthority
 .bash_history
 .bash_logout
 .bash_profile
@@ -6,17 +7,18 @@
 .cache/
 .ccache/
 .config/
-!.config/roxterm.sourceforge.net
-.config/roxterm.sourceforge.net/Searches/
+!.config/roxterm.sourceforge.net/Profiles/Default
+.esd_auth
 .gem/
+.gimp-2.8/
 .gnome/
 .history
-.ICEauthority
 .lesshst
 .local/
 .mono/
 .pki/
 .ssh/
+.thumbnails/
 .vagrant.d/
 .vim/.netrwhist
 .viminfo
