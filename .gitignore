@@ -6,8 +6,9 @@
 .bashrc
 .cache/
 .ccache/
-.config/
-!.config/roxterm.sourceforge.net/Profiles/Default
+.config/*
+!.config/roxterm.sourceforge.net/
+.config/roxterm.sourceforge.net/Searches
 .esd_auth
 .gem/
 .gimp-2.8/

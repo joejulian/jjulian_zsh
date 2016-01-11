@@ -1,3 +1,5 @@
 [roxterm profile]
-colour_scheme=Tango
-saturation=0.482955
+colour_scheme=Joe
+saturation=0.440341
+scrollback_lines=2048
+tab_pos=4
