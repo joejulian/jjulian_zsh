@@ -20,6 +20,7 @@
 .pki/
 .ssh/
 .thumbnails/
+.thunderbird/
 .vagrant.d/
 .vim/.netrwhist
 .viminfo

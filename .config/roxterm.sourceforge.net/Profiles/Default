@@ -3,3 +3,4 @@ colour_scheme=Joe
 saturation=0.440341
 scrollback_lines=2048
 tab_pos=4
+scroll_on_keystroke=1
