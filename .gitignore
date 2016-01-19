@@ -18,6 +18,8 @@
 .local/
 .mono/
 .pki/
+.pylint.d/
+.python_history
 .ssh/
 .thumbnails/
 .thunderbird/
