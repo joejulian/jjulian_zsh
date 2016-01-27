@@ -6,6 +6,7 @@
 .bashrc
 .cache/
 .ccache/
+.cinderclient/
 .config/*
 !.config/roxterm.sourceforge.net/
 .config/roxterm.sourceforge.net/Searches
@@ -17,10 +18,15 @@
 .lesshst
 .local/
 .mono/
+.mozilla/
+.my.cnf
+.mysql_history
+.novaclient/
 .pki/
 .pylint.d/
 .python_history
 .ssh/
+.supernova
 .thumbnails/
 .thunderbird/
 .vagrant.d/
@@ -29,6 +35,8 @@
 .xsel.log
 .zcompdump
 .zcompdump.zwc
+.zenmap/
+
 Desktop/
 Documents/
 Downloads/
