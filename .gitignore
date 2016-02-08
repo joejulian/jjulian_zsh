@@ -15,6 +15,7 @@
 .gimp-2.8/
 .gnome/
 .history
+.ipython/
 .lesshst
 .local/
 .mono/
