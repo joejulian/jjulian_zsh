@@ -13,6 +13,7 @@
 .esd_auth
 .gem/
 .gimp-2.8/
+.glanceclient/
 .gnome/
 .history
 .ipython/
@@ -34,6 +35,7 @@
 .vim/.netrwhist
 .viminfo
 .xsel.log
+.zcompcache/
 .zcompdump
 .zcompdump.zwc
 .zenmap/
