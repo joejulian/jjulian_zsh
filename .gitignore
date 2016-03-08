@@ -8,6 +8,9 @@
 .ccache/
 .cinderclient/
 .config/*
+!.config/hexchat/
+.config/hexchat/scrollback/
+.config/hexchat/servlist.conf
 !.config/roxterm.sourceforge.net/
 .config/roxterm.sourceforge.net/Searches
 .esd_auth
@@ -34,6 +37,9 @@
 .vagrant.d/
 .vim/.netrwhist
 .viminfo
+.xchat/
+!.xchat/*.conf
+.chat/
 .xsel.log
 .zcompcache/
 .zcompdump
