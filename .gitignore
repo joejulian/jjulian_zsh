@@ -13,11 +13,13 @@
 .config/hexchat/servlist.conf
 !.config/roxterm.sourceforge.net/
 .config/roxterm.sourceforge.net/Searches
+.debug/
 .esd_auth
 .gem/
 .gimp-2.8/
 .glanceclient/
 .gnome/
+.gnupg/
 .history
 .ipython/
 .lesshst
@@ -44,6 +46,7 @@
 .zcompcache/
 .zcompdump
 .zcompdump.zwc
+.zhistory
 .zenmap/
 
 Desktop/
