@@ -1,5 +1,8 @@
 # standard ignores
 .ICEauthority
+.ansible/
+.ash_history
+.aws/
 .bash_history
 .bash_logout
 .bash_profile
@@ -14,14 +17,18 @@
 !.config/roxterm.sourceforge.net/
 .config/roxterm.sourceforge.net/Searches
 .debug/
+.docker/
 .esd_auth
 .gem/
 .gimp-2.8/
 .glanceclient/
 .gnome/
 .gnupg/
+.helm/
 .history
 .ipython/
+.kraken/
+.kube/
 .lesshst
 .local/
 .mono/
@@ -29,18 +36,26 @@
 .my.cnf
 .mysql_history
 .novaclient/
+.npm/
 .pki/
 .pylint.d/
 .python_history
+.rnd
+.srl
 .ssh/
 .supernova
+.terraform.d/
 .thumbnails/
 .thunderbird/
+.triton/
 .vagrant.d/
 .vim/.netrwhist
 .viminfo
+.wget-hsts
 .xchat/
 !.xchat/*.conf
+.xchat2/
+!.xchat2/*.conf
 .chat/
 .xsel.log
 .zcompcache/
@@ -48,6 +63,7 @@
 .zcompdump.zwc
 .zhistory
 .zenmap/
+.zoom/
 
 Desktop/
 Documents/

@@ -1,5 +1,7 @@
 ZSH_THEME=steeef
 
+unset SSH_AUTH_SOCK
+
 if [[ -s "${ZDOTDIR:-$HOME}/.zprezto/init.zsh" ]]; then
   source "${ZDOTDIR:-$HOME}/.zprezto/init.zsh"
 fi
